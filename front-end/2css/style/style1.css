@@ -1,0 +1,12 @@
+li {
+    font: 20px "Microsoft YaHei UI";
+}
+
+p {
+    text-indent: 2em;
+}
+
+.font-note {
+    font: 700 25px "Microsoft YaHei UI";
+    line-height: 30px;
+}
